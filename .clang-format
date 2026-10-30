@@ -1,0 +1,6 @@
+BasedOnStyle: WebKit
+NamespaceIndentation: All
+AlwaysBreakAfterDefinitionReturnType: None
+AlwaysBreakAfterReturnType: None
+IndentPPDirectives: BeforeHash
+ColumnLimit: 80

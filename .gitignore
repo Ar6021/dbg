@@ -1,0 +1,42 @@
+## ignore temporary files and folders
+*.tmp
+*.temp
+*.tmp.*
+*.temp.*
+*.tmp/
+*.temp/
+*.tmp.*/
+*.temp.*/
+
+# output files
+*.o
+*.obj
+*.a
+*.so
+*.efi
+*.bin
+
+# output directories
+bin/
+obj/
+dist/
+
+# library
+libs/
+
+# test files & folders
+*.test.*
+*.test.*/
+test/
+
+# ide & env files and folders
+.vscode/
+.cache/
+.vs/
+__pycache__/
+*.pyc
+
+# clangd files
+compile_commands.json
+
+
